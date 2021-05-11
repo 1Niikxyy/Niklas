@@ -1,2 +1,4 @@
 # 1Niikxyy
-A Discord Py bot for LauchServer
+A Discord js Bot for Cracky Lounge.
+
+
